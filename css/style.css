@@ -942,7 +942,9 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	position:absolute !important;
 }
 
-
+body, html {
+	font-size: 15px;
+}
 
 
 /*----------------------------------------------------
